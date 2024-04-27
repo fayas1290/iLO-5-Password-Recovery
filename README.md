@@ -62,7 +62,7 @@ command line.
     hponcfg -w filename.xml
     ```
     
-6. Edit the file to add new user, and create new XML file with the following text: using a text editor like Vim
+6. Edit the file to add new user, and create new XML file with the following text using a text editor like Vim
     
     ```xml
     <RIBCL VERSION="2.1"> 
